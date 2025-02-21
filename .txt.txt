@@ -1,2 +1,0 @@
-sim card 5g 4g
-name of card holder
